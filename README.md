@@ -1,4 +1,4 @@
-# Pricing Page Clone
+# Pricing Page
 
 # Project Description
 This project is a static clone of a pricing page, designed to replicate the layout and visual elements of a typical pricing page found on various websites. The purpose of this project is to demonstrate my front-end development skills using HTML and CSS.
