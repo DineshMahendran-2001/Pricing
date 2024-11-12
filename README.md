@@ -1,7 +1,7 @@
 # Pricing Page
 
 # Project Description
-This project is a static clone of a pricing page, designed to replicate the layout and visual elements of a typical pricing page found on various websites. The purpose of this project is to demonstrate my front-end development skills using HTML and CSS.
+This project is a static copy of a pricing page, designed to replicate the layout and visual elements of a typical pricing page found on various websites. The purpose of this project is to demonstrate my front-end development skills using HTML and CSS.
 
 # Features
 - Static Design: The project mimics the appearance of a typical pricing page, including different pricing tiers and features.
@@ -12,7 +12,7 @@ This project is a static clone of a pricing page, designed to replicate the layo
 - CSS
 
 # Note
-- This project is a static clone and does not include any backend functionality. Users cannot interact with the pricing options beyond the visual representation.
+- This project is a static copy and does not include any backend functionality. Users cannot interact with the pricing options beyond the visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
 [https://github.com/DineshMahendran-2001/Pricing.git](https://github.com/DineshMahendran-2001/Pricing.git)
 
